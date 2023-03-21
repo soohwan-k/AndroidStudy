@@ -43,12 +43,12 @@
             android:layout_height="0dp"
             android:src="@drawable/ic_back"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@id/forWardButton"
+            app:layout_constraintEnd_toStartOf="@id/forwardButton"
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="ContentDescription" />
 
         <ImageButton
-            android:id="@+id/forWardButton"
+            android:id="@+id/forwardButton"
             android:layout_width="wrap_content"
             android:layout_height="0dp"
             android:src="@drawable/ic_forward"
