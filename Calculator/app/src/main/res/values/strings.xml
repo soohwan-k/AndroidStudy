@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <!-- Calculator Button -->
+    <string name="clear_button">C</string>
+    <string name="not_use_button">()</string>
+    <string name="percent_button">%</string>
+    <string name="divide_button">÷</string>
+    <string name="multiply_button">X</string>
+    <string name="minus_button">-</string>
+    <string name="plus_button">+</string>
+    <string name="equal_button">=</string>
+
+    <string name="close_button">닫기</string>
+    <string name="clear_history_button">계산기록 삭제</string>
+
+</resources>
