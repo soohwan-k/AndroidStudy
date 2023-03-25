@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066189019051",
+    "project_id": "todayquote-cc6d9",
+    "storage_bucket": "todayquote-cc6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066189019051:android:1bdc790db96de111dc24ee",
+        "android_client_info": {
+          "package_name": "org.tech.town.todayquote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066189019051-3576vmvd31015ng5rkdnco5qj7luamgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOIprFwQzectmJDs-12NA7TnBOREGgp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066189019051-3576vmvd31015ng5rkdnco5qj7luamgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
