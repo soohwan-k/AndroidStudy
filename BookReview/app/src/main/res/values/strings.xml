@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookReview</string>
+    <string name="save_button">저장하기</string>
+</resources>
